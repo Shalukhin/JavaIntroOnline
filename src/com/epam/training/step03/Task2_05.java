@@ -1,6 +1,6 @@
 /*5. Подсчитать, сколько раз среди символов заданной строки встречается буква “а”. */
 
-package step03;
+package com.epam.training.step03;
 
 public class Task2_05 {
 

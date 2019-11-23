@@ -1,6 +1,6 @@
 /* 6. Написать метод(методы), проверяющий, являются ли данные три числа взаимно простыми.*/
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Arrays;
 import java.util.Scanner;

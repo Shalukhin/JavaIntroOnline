@@ -1,11 +1,11 @@
 /*2. Создать объект класса Автомобиль, используя классы Колесо, Двигатель. Методы: ехать, заправляться, 
 менять колесо, вывести на консоль марку автомобиля.*/
 
-package step04.task2_02.main;
+package com.epam.training.step04.task2_02.main;
 
-import step04.task2_02.beans.Car;
-import step04.task2_02.logic.CarLogic;
-import step04.task2_02.utils.ConsoleScanner;
+import com.epam.training.step04.task2_02.beans.Car;
+import com.epam.training.step04.task2_02.logic.CarLogic;
+import com.epam.training.step04.task2_02.utils.ConsoleScanner;
 
 public class Runner {
 

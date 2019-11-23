@@ -2,12 +2,12 @@
 различного типа (отдых, экскурсии, лечение, шопинг, круиз и т. д.) для оптимального выбора. Учитывать 
 возможность выбора транспорта, питания и числа дней. Реализовать выбор и сортировку путевок. */
 
-package step04.task2_05.main;
+package com.epam.training.step04.task2_05.main;
 
-import step04.task2_05.beans.Client;
-import step04.task2_05.beans.TravelAgency;
-import step04.task2_05.logic.TravelAgencyLogic;
-import step04.task2_05.view.Viewer;
+import com.epam.training.step04.task2_05.beans.Client;
+import com.epam.training.step04.task2_05.beans.TravelAgency;
+import com.epam.training.step04.task2_05.logic.TravelAgencyLogic;
+import com.epam.training.step04.task2_05.view.Viewer;
 
 public class Runner {
 

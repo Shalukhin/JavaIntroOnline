@@ -1,9 +1,9 @@
-package step05.task5.variant_b.factory;
+package com.epam.training.step05.task5.variant_b.factory;
 
-import step05.task5.variant_b.beans.sweets.Candy;
-import step05.task5.variant_b.beans.sweets.Chocolate;
-import step05.task5.variant_b.beans.sweets.Lollipop;
-import step05.task5.variant_b.beans.sweets.Sweet;
+import com.epam.training.step05.task5.variant_b.beans.sweets.Candy;
+import com.epam.training.step05.task5.variant_b.beans.sweets.Chocolate;
+import com.epam.training.step05.task5.variant_b.beans.sweets.Lollipop;
+import com.epam.training.step05.task5.variant_b.beans.sweets.Sweet;
 
 public class SweetsFactory {
 

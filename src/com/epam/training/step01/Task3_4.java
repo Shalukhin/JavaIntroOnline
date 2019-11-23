@@ -1,6 +1,6 @@
 /*4. Составить программу нахождения произведения квадратов первых двухсот чисел.*/
 
-package step01;
+package com.epam.training.step01;
 
 import java.math.BigInteger;
 

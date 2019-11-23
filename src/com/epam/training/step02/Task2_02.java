@@ -1,6 +1,6 @@
 /* 2. Дана квадратная матрица. Вывести на экран элементы, стоящие на диагонали. */
 
-package step02;
+package com.epam.training.step02;
 
 public class Task2_02 {
 

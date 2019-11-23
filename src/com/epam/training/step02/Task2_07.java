@@ -1,6 +1,6 @@
 /* 7. Сформировать квадратную матрицу порядка N по правилу: */
 
-package step02;
+package com.epam.training.step02;
 
 import java.lang.Math;
 

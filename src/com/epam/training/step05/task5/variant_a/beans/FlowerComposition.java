@@ -1,8 +1,8 @@
-package step05.task5.variant_a.beans;
+package com.epam.training.step05.task5.variant_a.beans;
 
 import java.util.Arrays;
 
-import step05.task5.variant_a.beans.flowers.Flower;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Flower;
 
 public class FlowerComposition {
 	

@@ -1,6 +1,6 @@
 /*3. Дана матрица. Вывести k-ю строку и p-й столбец матрицы. */
 
-package step02;
+package com.epam.training.step02;
 
 public class Task2_03 {
 

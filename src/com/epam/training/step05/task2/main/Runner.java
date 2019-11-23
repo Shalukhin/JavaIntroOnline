@@ -1,8 +1,8 @@
-package step05.task2.main;
+package com.epam.training.step05.task2.main;
 
-import step05.task2.beans.Payment;
-import step05.task2.logic.PaymentLogic;
-import step05.task2.view.Viewer;
+import com.epam.training.step05.task2.beans.Payment;
+import com.epam.training.step05.task2.logic.PaymentLogic;
+import com.epam.training.step05.task2.view.Viewer;
 
 public class Runner {
 

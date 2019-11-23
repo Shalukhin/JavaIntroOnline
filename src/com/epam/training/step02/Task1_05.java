@@ -1,6 +1,6 @@
 /*5. Даны целые числа а 1  ,а 2  ,..., а n  . Вывести на печать только те числа, для которых а i  > i. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

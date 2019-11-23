@@ -1,7 +1,7 @@
-package step05.task4.view;
+package com.epam.training.step05.task4.view;
 
-import step05.task4.beans.Cave;
-import step05.task4.beans.Dragon;
+import com.epam.training.step05.task4.beans.Cave;
+import com.epam.training.step05.task4.beans.Dragon;
 
 public class Viewer {
 	

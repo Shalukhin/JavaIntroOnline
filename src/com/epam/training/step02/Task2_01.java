@@ -1,6 +1,6 @@
 /*1. Дана матрица. Вывести на экран все нечетные столбцы, у которых первый элемент больше последнего. */
 
-package step02;
+package com.epam.training.step02;
 
 public class Task2_01 {
 

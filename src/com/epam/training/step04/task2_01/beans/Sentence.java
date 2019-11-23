@@ -1,6 +1,6 @@
-package step04.task2_01.beans;
+package com.epam.training.step04.task2_01.beans;
 
-import step04.task2_01.view.Viewer;
+import com.epam.training.step04.task2_01.view.Viewer;
 
 public class Sentence {
 	

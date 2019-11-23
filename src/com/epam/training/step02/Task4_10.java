@@ -1,7 +1,7 @@
 /* 10.  Дано  натуральное  число  N.  Написать  метод(методы)  для  формирования  массива,  элементами  которого 
 являются цифры числа N. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Arrays;
 

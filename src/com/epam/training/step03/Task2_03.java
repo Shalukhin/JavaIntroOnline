@@ -1,6 +1,6 @@
 /*3. Проверить, является ли заданное слово палиндромом.*/
 
-package step03;
+package com.epam.training.step03;
 
 import java.util.Scanner;
 

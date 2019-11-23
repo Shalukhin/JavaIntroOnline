@@ -1,10 +1,10 @@
-package step04.task2_03.logic;
+package com.epam.training.step04.task2_03.logic;
 
 import java.util.Arrays;
 import java.util.Formatter;
 
-import step04.task2_03.beans.CompositeUnit;
-import step04.task2_03.beans.Unit;
+import com.epam.training.step04.task2_03.beans.CompositeUnit;
+import com.epam.training.step04.task2_03.beans.Unit;
 
 public abstract class CompositeUnitLogic<T extends Unit> {
 

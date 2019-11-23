@@ -14,21 +14,21 @@
   с именем "Минский" или обьект типа Region с именем "Минская", то из массива городов будет найден и возвращён экземпляр класса City с именем "Минск")  
   
  */
-package step04.task2_03.main;
+package com.epam.training.step04.task2_03.main;
 
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-import step04.task2_03.beans.City;
-import step04.task2_03.beans.District;
-import step04.task2_03.beans.Region;
-import step04.task2_03.beans.State;
-import step04.task2_03.beans.Unit;
-import step04.task2_03.logic.DistrictLogic;
-import step04.task2_03.logic.RegionLogic;
-import step04.task2_03.logic.StateLogic;
-import step04.task2_03.view.Viewer;
+import com.epam.training.step04.task2_03.beans.City;
+import com.epam.training.step04.task2_03.beans.District;
+import com.epam.training.step04.task2_03.beans.Region;
+import com.epam.training.step04.task2_03.beans.State;
+import com.epam.training.step04.task2_03.beans.Unit;
+import com.epam.training.step04.task2_03.logic.DistrictLogic;
+import com.epam.training.step04.task2_03.logic.RegionLogic;
+import com.epam.training.step04.task2_03.logic.StateLogic;
+import com.epam.training.step04.task2_03.view.Viewer;
 
 public class Runner {
 
@@ -91,7 +91,7 @@ public class Runner {
 		int ch;
 		StringBuilder sb = new StringBuilder();
 
-		String pass = System.getProperty("user.dir") + "\\src\\step04\\task2_03\\data\\cites.txt";
+		String pass = System.getProperty("user.dir") + "\\src\\com.epam.training.step04\\task2_03\\data\\cites.txt";
 		File f = new File(pass);
 
 		@SuppressWarnings("resource")
@@ -119,7 +119,7 @@ public class Runner {
 		int ch;
 		StringBuilder sb = new StringBuilder();
 
-		String pass = System.getProperty("user.dir") + "\\src\\step04\\task2_03\\data\\districts.txt";
+		String pass = System.getProperty("user.dir") + "\\src\\com.epam.training.step04\\task2_03\\data\\districts.txt";
 		File f = new File(pass);
 
 		@SuppressWarnings("resource")
@@ -148,7 +148,7 @@ public class Runner {
 		int ch;
 		StringBuilder sb = new StringBuilder();
 
-		String pass = System.getProperty("user.dir") + "\\src\\step04\\task2_03\\data\\regions.txt";
+		String pass = System.getProperty("user.dir") + "\\src\\com.epam.training.step04\\task2_03\\data\\regions.txt";
 		File f = new File(pass);
 
 		@SuppressWarnings("resource")

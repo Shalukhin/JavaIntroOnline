@@ -1,7 +1,7 @@
-package step04.task2_03.logic;
+package com.epam.training.step04.task2_03.logic;
 
-import step04.task2_03.beans.District;
-import step04.task2_03.beans.Region;
+import com.epam.training.step04.task2_03.beans.District;
+import com.epam.training.step04.task2_03.beans.Region;
 
 public class RegionLogic extends CompositeUnitLogic<District>{
 

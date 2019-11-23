@@ -1,8 +1,8 @@
-package step04.task2_05.view;
+package com.epam.training.step04.task2_05.view;
 
-import step04.task2_05.beans.Order;
-import step04.task2_05.beans.TravelAgency;
-import step04.task2_05.beans.tours.Tour;
+import com.epam.training.step04.task2_05.beans.Order;
+import com.epam.training.step04.task2_05.beans.TravelAgency;
+import com.epam.training.step04.task2_05.beans.tours.Tour;
 
 public class Viewer {
 	

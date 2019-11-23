@@ -1,8 +1,8 @@
-package step05.task5.variant_b.main;
+package com.epam.training.step05.task5.variant_b.main;
 
-import step05.task5.variant_b.beans.Gift;
-import step05.task5.variant_b.logic.GiftLogic;
-import step05.task5.variant_b.view.Viewer;
+import com.epam.training.step05.task5.variant_b.beans.Gift;
+import com.epam.training.step05.task5.variant_b.logic.GiftLogic;
+import com.epam.training.step05.task5.variant_b.view.Viewer;
 
 
 public class Runner {

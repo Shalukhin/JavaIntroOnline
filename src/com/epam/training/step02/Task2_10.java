@@ -1,6 +1,6 @@
 /*10. Найти положительные элементы главной диагонали квадратной матрицы. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

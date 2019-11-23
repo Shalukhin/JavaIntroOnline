@@ -2,7 +2,7 @@
  * и его тип (открывающий тег, закрывающий тег, содержимое тега, тег без тела). 
  * Пользоваться готовыми парсерами XML для решения данной задачи нельзя. */
 
-package step03;
+package com.epam.training.step03;
 
 import java.util.Arrays;
 import java.util.Scanner;

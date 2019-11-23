@@ -1,10 +1,10 @@
-package step05.task5.variant_a.factory;
+package com.epam.training.step05.task5.variant_a.factory;
 
-import step05.task5.variant_a.beans.flowers.Flower;
-import step05.task5.variant_a.beans.flowers.Lily;
-import step05.task5.variant_a.beans.flowers.Rose;
-import step05.task5.variant_a.beans.flowers.Tulip;
-import step05.task5.variant_a.beans.flowers.Сhrysanthemum;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Flower;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Lily;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Rose;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Tulip;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Сhrysanthemum;
 
 public class FlowerFactory {
 

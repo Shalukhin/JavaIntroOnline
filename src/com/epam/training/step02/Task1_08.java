@@ -1,7 +1,7 @@
 /*8.  Дана  последовательность  целых  чисел a1 a2 ... an. Образовать  новую  последовательность,  выбросив  из 
 исходной те члены, которые равны min(a1 a2 ... an)*/
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Arrays;
 

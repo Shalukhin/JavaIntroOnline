@@ -1,7 +1,7 @@
 /*3.  Дан  массив  действительных  чисел,  размерность  которого  N.  Подсчитать,  сколько  в  нем  отрицательных, 
 положительных и нулевых элементов. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

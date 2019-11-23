@@ -1,6 +1,6 @@
 /*6. Из заданной строки получить новую, повторив каждый символ дважды.*/
 
-package step03;
+package com.epam.training.step03;
 
 public class Task2_06 {
 

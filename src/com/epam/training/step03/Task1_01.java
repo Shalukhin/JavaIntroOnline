@@ -1,6 +1,6 @@
 /*1. Дан массив названий переменных в camelCase. Преобразовать названия в snake_case.*/
 
-package step03;
+package com.epam.training.step03;
 
 import java.util.Arrays;
 

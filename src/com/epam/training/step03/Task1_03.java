@@ -1,6 +1,6 @@
 /*3. В строке найти количество цифр.*/
 
-package step03;
+package com.epam.training.step03;
 
 public class Task1_03 {
 

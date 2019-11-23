@@ -1,8 +1,8 @@
-package step04.task2_03.view;
+package com.epam.training.step04.task2_03.view;
 
-import step04.task2_03.beans.Region;
-import step04.task2_03.beans.State;
-import step04.task2_03.beans.Unit;
+import com.epam.training.step04.task2_03.beans.Region;
+import com.epam.training.step04.task2_03.beans.State;
+import com.epam.training.step04.task2_03.beans.Unit;
 
 public class Viewer {
 	

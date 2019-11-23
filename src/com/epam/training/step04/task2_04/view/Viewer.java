@@ -1,7 +1,7 @@
-package step04.task2_04.view;
+package com.epam.training.step04.task2_04.view;
 
-import step04.task2_04.beans.Bill;
-import step04.task2_04.beans.Client;
+import com.epam.training.step04.task2_04.beans.Bill;
+import com.epam.training.step04.task2_04.beans.Client;
 
 public class Viewer {
 	

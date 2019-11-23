@@ -1,6 +1,6 @@
 /*2. Найти max{min(a, b), min(c, d)}. */
 
-package step01;
+package com.epam.training.step01;
 
 import java.lang.Math;
 

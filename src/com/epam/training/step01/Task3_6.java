@@ -1,6 +1,6 @@
 /*6. Вывести на экран соответствий между символами и их численными обозначениями в памяти компьютера.*/
 
-package step01;
+package com.epam.training.step01;
 
 public class Task3_6 {
 

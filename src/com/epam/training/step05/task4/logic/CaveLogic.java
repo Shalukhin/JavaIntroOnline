@@ -1,6 +1,6 @@
-package step05.task4.logic;
+package com.epam.training.step05.task4.logic;
 
-import step05.task4.beans.Cave;
+import com.epam.training.step05.task4.beans.Cave;
 
 public class CaveLogic {
 	

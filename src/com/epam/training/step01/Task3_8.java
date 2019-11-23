@@ -1,6 +1,6 @@
 /*8. Даны два числа. Определить цифры, входящие в запись как первого так и второго числа. */
 
-package step01;
+package com.epam.training.step01;
 
 import java.util.Arrays;
 

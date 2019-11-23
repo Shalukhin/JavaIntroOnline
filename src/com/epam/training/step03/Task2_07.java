@@ -1,7 +1,7 @@
 /*7. Вводится строка. Требуется удалить из нее повторяющиеся символы и все пробелы. Например, если было введено "abc cde 
 def", то должно быть выведено "abcdef". */
 
-package step03;
+package com.epam.training.step03;
 
 public class Task2_07 {
 

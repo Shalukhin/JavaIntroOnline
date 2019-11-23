@@ -1,7 +1,7 @@
-package step05.task5.variant_a.view;
+package com.epam.training.step05.task5.variant_a.view;
 
-import step05.task5.variant_a.beans.FlowerComposition;
-import step05.task5.variant_a.beans.flowers.Flower;
+import com.epam.training.step05.task5.variant_a.beans.FlowerComposition;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Flower;
 
 public class Viewer {
 	

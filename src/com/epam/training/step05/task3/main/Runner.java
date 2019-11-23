@@ -1,8 +1,8 @@
-package step05.task3.main;
+package com.epam.training.step05.task3.main;
 
-import step05.task3.beans.Calendar;
-import step05.task3.logic.CalendarLogic;
-import step05.task3.view.Viewer;
+import com.epam.training.step05.task3.beans.Calendar;
+import com.epam.training.step05.task3.logic.CalendarLogic;
+import com.epam.training.step05.task3.view.Viewer;
 
 public class Runner {
 

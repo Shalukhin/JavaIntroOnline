@@ -2,7 +2,7 @@
 конструктор, инициализирующий члены класса по умолчанию. Добавьте set- и get- методы для полей экземпляра 
 класса.*/
 
-package step04.task1_02;
+package com.epam.training.step04.task1_02;
 
 public class Runner {
 

@@ -1,6 +1,6 @@
-package step05.task3.view;
+package com.epam.training.step05.task3.view;
 
-import step05.task3.beans.Calendar;
+import com.epam.training.step05.task3.beans.Calendar;
 
 public class Viewer {
 	

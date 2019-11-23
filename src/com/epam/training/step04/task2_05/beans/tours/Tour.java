@@ -1,4 +1,4 @@
-package step04.task2_05.beans.tours;
+package com.epam.training.step04.task2_05.beans.tours;
 
 public abstract class Tour {
 

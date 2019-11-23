@@ -6,9 +6,9 @@
 a) список покупателей в алфавитном порядке;  
 b) список покупателей, у которых номер кредитной карточки находится в заданном интервале */
 
-package step04.task1_08_09_10.task1_08;
+package com.epam.training.step04.task1_08_09_10.task1_08;
 
-import step04.task1_08_09_10.Entity;
+import com.epam.training.step04.task1_08_09_10.Entity;
 
 public class Customer extends Entity {
 	

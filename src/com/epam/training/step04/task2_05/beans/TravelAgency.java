@@ -1,8 +1,8 @@
-package step04.task2_05.beans;
+package com.epam.training.step04.task2_05.beans;
 
 import java.util.Arrays;
 
-import step04.task2_05.beans.tours.Tour;
+import com.epam.training.step04.task2_05.beans.tours.Tour;
 
 public class TravelAgency {
 	

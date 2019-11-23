@@ -1,8 +1,8 @@
-package step05.task2.logic;
+package com.epam.training.step05.task2.logic;
 
 import java.util.Arrays;
 
-import step05.task2.beans.Payment;
+import com.epam.training.step05.task2.beans.Payment;
 
 public class PaymentLogic {
 	

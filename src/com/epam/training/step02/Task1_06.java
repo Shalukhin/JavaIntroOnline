@@ -1,7 +1,7 @@
 /*6.  Задана  последовательность  N  вещественных  чисел.  Вычислить  сумму  чисел,  порядковые  номера  которых 
 являются простыми числами. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

@@ -1,6 +1,6 @@
-package step04.task2_01.logic;
+package com.epam.training.step04.task2_01.logic;
 
-import step04.task2_01.beans.Word;
+import com.epam.training.step04.task2_01.beans.Word;
 
 public class WordLogic {
 	

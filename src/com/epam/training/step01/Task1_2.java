@@ -1,6 +1,6 @@
 /*Вычислить значение выражения по формуле (все переменные принимают действительные значения):*/
 
-package step01;
+package com.epam.training.step01;
 
 import java.lang.Math;
 

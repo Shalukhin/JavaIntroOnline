@@ -1,6 +1,6 @@
 /*5. Вычислить значение функции: */
 
-package step01;
+package com.epam.training.step01;
 
 public class Task2_5 {
 

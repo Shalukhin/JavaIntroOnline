@@ -1,6 +1,6 @@
 /* 2. В строке вставить после каждого символа 'a' символ 'b'. */
 
-package step03;
+package com.epam.training.step03;
 
 public class Task2_02 {
 

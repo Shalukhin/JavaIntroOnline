@@ -1,6 +1,6 @@
 /*2. Замените в строке все вхождения 'word' на 'letter'. */
 
-package step03;
+package com.epam.training.step03;
 
 public class Task1_02 {
 

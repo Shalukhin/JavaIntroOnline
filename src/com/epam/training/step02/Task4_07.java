@@ -1,6 +1,6 @@
 /* 7. Написать метод(методы) для вычисления суммы факториалов всех нечетных чисел от 1 до 9. */
 
-package step02;
+package com.epam.training.step02;
 
 public class Task4_07 {
 

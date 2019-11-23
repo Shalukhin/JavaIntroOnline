@@ -1,4 +1,4 @@
-package step05.task1.beans;
+package com.epam.training.step05.task1.beans;
 
 public class TextFile extends File {
 	

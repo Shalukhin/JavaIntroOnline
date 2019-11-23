@@ -1,10 +1,10 @@
-package step05.task3.logic;
+package com.epam.training.step05.task3.logic;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.Arrays;
 
-import step05.task3.beans.Calendar;
+import com.epam.training.step05.task3.beans.Calendar;
 
 public class CalendarLogic {
 	

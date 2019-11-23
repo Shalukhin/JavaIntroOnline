@@ -1,6 +1,6 @@
-package step05.task1.logic;
+package com.epam.training.step05.task1.logic;
 
-import step05.task1.beans.TextFile;
+import com.epam.training.step05.task1.beans.TextFile;
 
 public class TextFileLogic {
 		

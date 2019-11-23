@@ -1,6 +1,6 @@
 /*1. В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

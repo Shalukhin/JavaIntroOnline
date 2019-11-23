@@ -7,11 +7,11 @@ a) список рейсов для заданного пункта назнач
 b) список рейсов для заданного дня недели;  
 c) список рейсов для заданного дня недели, время вылета для которых больше заданного. */
 
-package step04.task1_08_09_10.task1_10;
+package com.epam.training.step04.task1_08_09_10.task1_10;
 
 import java.time.LocalTime;
 
-import step04.task1_08_09_10.Entity;
+import com.epam.training.step04.task1_08_09_10.Entity;
 
 public class Airline extends Entity {
 	

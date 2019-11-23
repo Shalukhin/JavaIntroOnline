@@ -1,6 +1,6 @@
 /* 4. В строке найти количество чисел. */
 
-package step03;
+package com.epam.training.step03;
 
 import java.util.Arrays;
 

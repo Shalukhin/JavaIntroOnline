@@ -1,6 +1,6 @@
-package step04.task2_02.logic;
+package com.epam.training.step04.task2_02.logic;
 
-import step04.task2_02.beans.Wheel;
+import com.epam.training.step04.task2_02.beans.Wheel;
 
 public class WheelLogic {
 	

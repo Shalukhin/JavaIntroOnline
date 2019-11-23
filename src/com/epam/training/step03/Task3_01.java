@@ -3,7 +3,7 @@
 предложении  отсортировать  слова  по  длине; отсортировать лексемы в предложении по убыванию 
 количества вхождений заданного символа, а в случае равенства – по алфавиту. */
 
-package step03;
+package com.epam.training.step03;
 
 import java.util.Arrays;
 import java.util.Scanner;

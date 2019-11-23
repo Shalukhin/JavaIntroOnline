@@ -1,17 +1,17 @@
-package step04.task2_05.logic;
+package com.epam.training.step04.task2_05.logic;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
-import step04.task2_05.beans.Client;
-import step04.task2_05.beans.Order;
-import step04.task2_05.beans.TravelAgency;
-import step04.task2_05.beans.tours.Cruise;
-import step04.task2_05.beans.tours.Excursion;
-import step04.task2_05.beans.tours.Recovery;
-import step04.task2_05.beans.tours.Relaxation;
-import step04.task2_05.beans.tours.Shopping;
-import step04.task2_05.beans.tours.Tour;
+import com.epam.training.step04.task2_05.beans.Client;
+import com.epam.training.step04.task2_05.beans.Order;
+import com.epam.training.step04.task2_05.beans.TravelAgency;
+import com.epam.training.step04.task2_05.beans.tours.Cruise;
+import com.epam.training.step04.task2_05.beans.tours.Excursion;
+import com.epam.training.step04.task2_05.beans.tours.Recovery;
+import com.epam.training.step04.task2_05.beans.tours.Relaxation;
+import com.epam.training.step04.task2_05.beans.tours.Shopping;
+import com.epam.training.step04.task2_05.beans.tours.Tour;
 
 public class TravelAgencyLogic {
 

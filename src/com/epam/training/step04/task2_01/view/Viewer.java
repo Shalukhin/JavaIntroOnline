@@ -1,4 +1,4 @@
-package step04.task2_01.view;
+package com.epam.training.step04.task2_01.view;
 
 public class Viewer {
 	

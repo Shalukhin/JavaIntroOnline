@@ -1,6 +1,6 @@
 /*15. Найдите наибольший элемент матрицы и заменить все нечетные элементы на него. */
 
-package step02;
+package com.epam.training.step02;
 
 public class Task2_15 {
 

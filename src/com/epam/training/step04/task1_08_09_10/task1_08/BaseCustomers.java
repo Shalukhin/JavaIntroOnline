@@ -6,10 +6,10 @@
 a) список покупателей в алфавитном порядке;  
 b) список покупателей, у которых номер кредитной карточки находится в заданном интервале */
 
-package step04.task1_08_09_10.task1_08;
+package com.epam.training.step04.task1_08_09_10.task1_08;
 
 import java.util.Arrays;
-import step04.task1_08_09_10.AgregationArray;
+import com.epam.training.step04.task1_08_09_10.AgregationArray;
 
 public class BaseCustomers extends AgregationArray<Customer> {
 

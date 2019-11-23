@@ -1,10 +1,10 @@
-package step05.task4.main;
+package com.epam.training.step05.task4.main;
 
-import step05.task4.beans.Cave;
-import step05.task4.beans.Dragon;
-import step05.task4.logic.CaveLogic;
-import step05.task4.logic.DragonLogic;
-import step05.task4.view.Viewer;
+import com.epam.training.step05.task4.beans.Cave;
+import com.epam.training.step05.task4.beans.Dragon;
+import com.epam.training.step05.task4.logic.CaveLogic;
+import com.epam.training.step05.task4.logic.DragonLogic;
+import com.epam.training.step05.task4.view.Viewer;
 
 public class Runner {
 

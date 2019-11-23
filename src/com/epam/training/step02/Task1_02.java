@@ -1,7 +1,7 @@
 /*2. Дана последовательность действительных чисел а 1  ,а 2  ,..., а п. Заменить все ее члены, большие данного Z, этим 
 числом. Подсчитать количество замен. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

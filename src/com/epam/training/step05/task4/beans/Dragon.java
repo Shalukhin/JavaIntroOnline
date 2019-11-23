@@ -1,4 +1,4 @@
-package step05.task4.beans;
+package com.epam.training.step05.task4.beans;
 
 public class Dragon {
 	

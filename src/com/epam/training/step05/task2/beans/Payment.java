@@ -1,4 +1,4 @@
-package step05.task2.beans;
+package com.epam.training.step05.task2.beans;
 
 import java.util.Arrays;
 

@@ -7,9 +7,9 @@ a) список книг заданного автора;
 b) список книг, выпущенных заданным издательством;  
 c) список книг, выпущенных после заданного года.*/
 
-package step04.task1_08_09_10.task1_09;
+package com.epam.training.step04.task1_08_09_10.task1_09;
 
-import step04.task1_08_09_10.Entity;
+import com.epam.training.step04.task1_08_09_10.Entity;
 
 public class Book extends Entity {
 	

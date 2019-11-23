@@ -1,9 +1,9 @@
-package step04.task2_03.logic;
+package com.epam.training.step04.task2_03.logic;
 
-import step04.task2_03.beans.City;
-import step04.task2_03.beans.Region;
-import step04.task2_03.beans.State;
-import step04.task2_03.view.Viewer;
+import com.epam.training.step04.task2_03.beans.City;
+import com.epam.training.step04.task2_03.beans.Region;
+import com.epam.training.step04.task2_03.beans.State;
+import com.epam.training.step04.task2_03.view.Viewer;
 
 public class StateLogic extends CompositeUnitLogic<Region> {
 	

@@ -12,14 +12,14 @@
 		getStrFromConsol() - получение с консоли строки типа String 
  */
 
-package step04.task2_04.main;
+package com.epam.training.step04.task2_04.main;
 
 import java.util.Scanner;
 
-import step04.task2_04.beans.Bill;
-import step04.task2_04.beans.Client;
-import step04.task2_04.logic.ClientLogic;
-import step04.task2_04.view.Viewer;
+import com.epam.training.step04.task2_04.beans.Bill;
+import com.epam.training.step04.task2_04.beans.Client;
+import com.epam.training.step04.task2_04.logic.ClientLogic;
+import com.epam.training.step04.task2_04.view.Viewer;
 
 public class Runner {
 

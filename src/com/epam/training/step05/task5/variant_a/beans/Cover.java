@@ -1,4 +1,4 @@
-package step05.task5.variant_a.beans;
+package com.epam.training.step05.task5.variant_a.beans;
 
 public class Cover {
 	

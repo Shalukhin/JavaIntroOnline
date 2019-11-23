@@ -1,6 +1,6 @@
 /*1. Найдите  значение функции: z = ( (a – 3 ) * b / 2) + c. */
 
-package step01;
+package com.epam.training.step01;
 
 public class Task1_1 {
 

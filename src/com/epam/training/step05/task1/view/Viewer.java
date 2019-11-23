@@ -1,7 +1,7 @@
-package step05.task1.view;
+package com.epam.training.step05.task1.view;
 
-import step05.task1.beans.NotePad;
-import step05.task1.beans.TextFile;
+import com.epam.training.step05.task1.beans.NotePad;
+import com.epam.training.step05.task1.beans.TextFile;
 
 public class Viewer {
 	

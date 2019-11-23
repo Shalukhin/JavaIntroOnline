@@ -1,6 +1,6 @@
 /*13. Отсотрировать стобцы матрицы по возрастанию и убыванию значений эементов. */
 
-package step02;
+package com.epam.training.step02;
 
 public class Task2_13 {
 

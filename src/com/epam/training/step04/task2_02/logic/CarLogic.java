@@ -1,11 +1,11 @@
-package step04.task2_02.logic;
+package com.epam.training.step04.task2_02.logic;
 
 import java.util.Formatter;
 
-import step04.task2_02.beans.Car;
-import step04.task2_02.beans.Wheel;
-import step04.task2_02.utils.ConsoleScanner;
-import step04.task2_02.view.Viewer;
+import com.epam.training.step04.task2_02.beans.Car;
+import com.epam.training.step04.task2_02.beans.Wheel;
+import com.epam.training.step04.task2_02.utils.ConsoleScanner;
+import com.epam.training.step04.task2_02.view.Viewer;
 
 public class CarLogic {
 	

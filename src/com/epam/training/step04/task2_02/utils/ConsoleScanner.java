@@ -1,4 +1,4 @@
-package step04.task2_02.utils;
+package com.epam.training.step04.task2_02.utils;
 
 import java.util.Scanner;
 

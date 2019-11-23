@@ -1,4 +1,4 @@
-package step05.task5.variant_b.beans.sweets;
+package com.epam.training.step05.task5.variant_b.beans.sweets;
 
 public abstract class Sweet {
 	

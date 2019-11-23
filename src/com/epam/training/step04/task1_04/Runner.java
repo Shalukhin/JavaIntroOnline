@@ -4,7 +4,7 @@
 Добавьте возможность сортировки массив по пункту назначения, причем поезда с одинаковыми пунктами 
 назначения должны быть упорядочены по времени отправления.*/
 
-package step04.task1_04;
+package com.epam.training.step04.task1_04;
 
 import java.util.Arrays;
 import java.util.Scanner;

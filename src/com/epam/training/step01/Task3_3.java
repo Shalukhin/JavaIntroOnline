@@ -1,6 +1,6 @@
 /*3. Найти сумму квадратов первых ста чисел.*/
 
-package step01;
+package com.epam.training.step01;
 
 public class Task3_3 {
 

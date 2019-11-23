@@ -2,14 +2,14 @@
 Создать объект класса Текстовый файл, используя классы Файл, Директория. Методы: создать, переименовать, 
 вывести на консоль содержимое, дополнить, удалить. */
 
-package step05.task1.main;
+package com.epam.training.step05.task1.main;
 
-import step05.task1.beans.Directory;
-import step05.task1.beans.NotePad;
-import step05.task1.beans.TextFile;
-import step05.task1.logic.NotePadLogic;
-import step05.task1.logic.TextFileLogic;
-import step05.task1.view.Viewer;
+import com.epam.training.step05.task1.beans.Directory;
+import com.epam.training.step05.task1.beans.NotePad;
+import com.epam.training.step05.task1.beans.TextFile;
+import com.epam.training.step05.task1.logic.NotePadLogic;
+import com.epam.training.step05.task1.logic.TextFileLogic;
+import com.epam.training.step05.task1.view.Viewer;
 
 public class Runner {
 

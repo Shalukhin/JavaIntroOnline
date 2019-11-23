@@ -1,4 +1,4 @@
-package step05.task5.variant_a.logic;
+package com.epam.training.step05.task5.variant_a.logic;
 
 public class Validator {
 	

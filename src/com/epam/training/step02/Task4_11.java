@@ -1,6 +1,6 @@
 /* 11. Написать метод(методы), определяющий, в каком из данных двух чисел больше цифр. */
 
-package step02;
+package com.epam.training.step02;
 
 public class Task4_11 {
 

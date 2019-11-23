@@ -1,7 +1,7 @@
 /*7. Для каждого натурального числа в промежутке от m до n вывести все делители, кроме единицы и самого числа. 
 m и n вводятся с клавиатуры. */
 
-package step01;
+package com.epam.training.step01;
 
 import java.util.Scanner;
 

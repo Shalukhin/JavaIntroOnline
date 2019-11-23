@@ -1,4 +1,4 @@
-package step05.task3.beans;
+package com.epam.training.step05.task3.beans;
 
 import java.time.LocalDate;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package step04.task2_05.beans;
+package com.epam.training.step04.task2_05.beans;
 
 public class Client {
 	

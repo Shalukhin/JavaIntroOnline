@@ -1,4 +1,4 @@
-package step05.task5.variant_a.beans.flowers;
+package com.epam.training.step05.task5.variant_a.beans.flowers;
 
 public class Rose extends Flower {
 

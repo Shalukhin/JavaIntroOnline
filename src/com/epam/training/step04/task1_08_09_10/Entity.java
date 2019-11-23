@@ -1,4 +1,4 @@
-package step04.task1_08_09_10;
+package com.epam.training.step04.task1_08_09_10;
 
 public abstract class Entity {
 	

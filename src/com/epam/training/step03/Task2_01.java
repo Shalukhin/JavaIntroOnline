@@ -1,6 +1,6 @@
 /*1. Дан текст (строка). Найдите наибольшее количество подряд идущих пробелов в нем.*/
 
-package step03;
+package com.epam.training.step03;
 
 public class Task2_01 {
 

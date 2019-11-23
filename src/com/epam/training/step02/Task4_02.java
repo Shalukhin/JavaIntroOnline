@@ -1,6 +1,6 @@
 /* 2. Написать метод(методы) для нахождения наибольшего общего делителя четырех натуральных чисел.*/
 
-package step02;
+package com.epam.training.step02;
 
 public class Task4_02 {
 

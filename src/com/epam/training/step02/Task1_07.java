@@ -1,6 +1,6 @@
 /*7. Даны действительные числа a1 a2 a3 ... an. Найти max(a1+a2n, a2+a2n-1...)*/
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

@@ -1,14 +1,14 @@
 /*1. Создать объект класса Текст, используя классы Предложение, Слово. Методы: дополнить текст, вывести на 
 консоль текст, заголовок текста.*/
 
-package step04.task2_01.main;
+package com.epam.training.step04.task2_01.main;
 
-import step04.task2_01.beans.Sentence;
-import step04.task2_01.beans.Text;
-import step04.task2_01.beans.Word;
-import step04.task2_01.logic.SentenceLogic;
-import step04.task2_01.logic.TextLogic;
-import step04.task2_01.logic.WordLogic;
+import com.epam.training.step04.task2_01.beans.Sentence;
+import com.epam.training.step04.task2_01.beans.Text;
+import com.epam.training.step04.task2_01.beans.Word;
+import com.epam.training.step04.task2_01.logic.SentenceLogic;
+import com.epam.training.step04.task2_01.logic.TextLogic;
+import com.epam.training.step04.task2_01.logic.WordLogic;
 
 public class Runner {
 

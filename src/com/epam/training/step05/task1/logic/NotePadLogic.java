@@ -1,10 +1,10 @@
-package step05.task1.logic;
+package com.epam.training.step05.task1.logic;
 
 import java.util.Arrays;
 
-import step05.task1.beans.Directory;
-import step05.task1.beans.NotePad;
-import step05.task1.beans.TextFile;
+import com.epam.training.step05.task1.beans.Directory;
+import com.epam.training.step05.task1.beans.NotePad;
+import com.epam.training.step05.task1.beans.TextFile;
 
 public class NotePadLogic {
 	

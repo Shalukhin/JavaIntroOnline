@@ -1,6 +1,6 @@
 /*2. Вычислить значения функции на отрезке [а,b] c шагом h: */
 
-package step01;
+package com.epam.training.step01;
 
 public class Task3_2 {
 

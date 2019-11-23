@@ -1,8 +1,8 @@
-package step04.task2_01.logic;
+package com.epam.training.step04.task2_01.logic;
 
-import step04.task2_01.beans.Sentence;
-import step04.task2_01.beans.Text;
-import step04.task2_01.beans.Word;
+import com.epam.training.step04.task2_01.beans.Sentence;
+import com.epam.training.step04.task2_01.beans.Text;
+import com.epam.training.step04.task2_01.beans.Word;
 
 public class TextLogic {
 

@@ -2,7 +2,7 @@
 возведенная  в  степень  n,  равна  самому  числу.  Найти  все  числа  Армстронга  от  1  до  k.  Для  решения  задачи 
 использовать декомпозицию. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Arrays;
 

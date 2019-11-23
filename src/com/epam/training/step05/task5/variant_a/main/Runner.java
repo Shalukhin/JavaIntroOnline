@@ -1,8 +1,8 @@
-package step05.task5.variant_a.main;
+package com.epam.training.step05.task5.variant_a.main;
 
-import step05.task5.variant_a.beans.FlowerComposition;
-import step05.task5.variant_a.logic.FlowerCompositionLogic;
-import step05.task5.variant_a.view.Viewer;
+import com.epam.training.step05.task5.variant_a.beans.FlowerComposition;
+import com.epam.training.step05.task5.variant_a.logic.FlowerCompositionLogic;
+import com.epam.training.step05.task5.variant_a.view.Viewer;
 
 public class Runner {
 

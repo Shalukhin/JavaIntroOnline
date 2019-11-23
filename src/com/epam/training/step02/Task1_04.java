@@ -1,6 +1,6 @@
 /*4. Даны действительные числа а 1  ,а 2  ,..., а n  . Поменять местами наибольший и наименьший элементы. */
 
-package step02;
+package com.epam.training.step02;
 
 import java.util.Formatter;
 import java.util.Locale;

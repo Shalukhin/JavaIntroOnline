@@ -1,8 +1,8 @@
-package step05.task5.variant_b.beans;
+package com.epam.training.step05.task5.variant_b.beans;
 
 import java.util.Arrays;
 
-import step05.task5.variant_b.beans.sweets.Sweet;
+import com.epam.training.step05.task5.variant_b.beans.sweets.Sweet;
 
 public class Gift {
 	

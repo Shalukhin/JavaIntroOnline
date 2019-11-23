@@ -1,10 +1,10 @@
-package step04.task2_04.logic;
+package com.epam.training.step04.task2_04.logic;
 
 import java.util.Arrays;
 import java.util.Comparator;
-import step04.task2_04.beans.Bill;
-import step04.task2_04.beans.Client;
-import step04.task2_04.view.Viewer;
+import com.epam.training.step04.task2_04.beans.Bill;
+import com.epam.training.step04.task2_04.beans.Client;
+import com.epam.training.step04.task2_04.view.Viewer;
 
 public class ClientLogic {
 

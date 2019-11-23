@@ -1,12 +1,12 @@
-package step05.task5.variant_a.logic;
+package com.epam.training.step05.task5.variant_a.logic;
 
 import java.util.Arrays;
 
-import step05.task5.variant_a.beans.Cover;
-import step05.task5.variant_a.beans.FlowerComposition;
-import step05.task5.variant_a.beans.flowers.Flower;
-import step05.task5.variant_a.factory.FlowerFactory;
-import step05.task5.variant_a.view.Viewer;
+import com.epam.training.step05.task5.variant_a.beans.Cover;
+import com.epam.training.step05.task5.variant_a.beans.FlowerComposition;
+import com.epam.training.step05.task5.variant_a.beans.flowers.Flower;
+import com.epam.training.step05.task5.variant_a.factory.FlowerFactory;
+import com.epam.training.step05.task5.variant_a.view.Viewer;
 
 public class FlowerCompositionLogic {
 	

@@ -2,7 +2,7 @@
 данное значение длительности в часах, минутах и секундах в следующей форме: 
 ННч ММмин SSc.*/
 
-package step01;
+package com.epam.training.step01;
 
 public class Task1_5 {
 

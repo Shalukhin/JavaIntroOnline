@@ -1,12 +1,12 @@
-package step05.task5.variant_b.logic;
+package com.epam.training.step05.task5.variant_b.logic;
 
 import java.util.Arrays;
 
-import step05.task5.variant_b.beans.Box;
-import step05.task5.variant_b.beans.Gift;
-import step05.task5.variant_b.beans.sweets.Sweet;
-import step05.task5.variant_b.factory.SweetsFactory;
-import step05.task5.variant_b.view.Viewer;
+import com.epam.training.step05.task5.variant_b.beans.Box;
+import com.epam.training.step05.task5.variant_b.beans.Gift;
+import com.epam.training.step05.task5.variant_b.beans.sweets.Sweet;
+import com.epam.training.step05.task5.variant_b.factory.SweetsFactory;
+import com.epam.training.step05.task5.variant_b.view.Viewer;
 
 public class GiftLogic {
 	
