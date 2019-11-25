@@ -139,8 +139,6 @@ public class ClientLogic {
 		}
 		
 		billLogic.increaseBalance(bill, money);
-
-		//bill.increaseBalance(money);
 	}
 
 	public void takeMoneyFromBill(long money, Bill bill) {
@@ -155,8 +153,6 @@ public class ClientLogic {
 		}
 		
 		billLogic.decreaseBalance(bill, money);
-
-		//bill.decreaseBalance(money);
 	}
 
 	public void transferMoneyFromBill1ToBill2(long money, Bill bill1, Bill bill2) {
